@@ -19,7 +19,7 @@
 
 ## How to use ?
 1. put the `server.exe` in server side then run
-2. after `serevr.exe` run, open `client.exe`
+2. after `server.exe` run, open `client.exe`
 3. now the app ready to chat
 
 ## Note
