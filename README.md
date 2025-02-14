@@ -1,7 +1,12 @@
 # simple-secure-chatting
 **simple secure chatting app desktop with client - server**
 
-![This is an alt text.](https://github.com/YD1RUH/simple-secure-chatting/blob/main/scap1.png) ![This is an alt text.](https://github.com/YD1RUH/simple-secure-chatting/blob/main/scap2.png) 
+<table>
+  <tr>
+    <td><img src="https://github.com/YD1RUH/simple-secure-chatting/blob/main/scap1.png"></td>
+    <td><img src="https://github.com/YD1RUH/simple-secure-chatting/blob/main/scap2.png"></td>
+  </tr>
+</table>
 
 ## requirement
 * system operation windows 10 or UP
